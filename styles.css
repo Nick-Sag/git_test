@@ -1,0 +1,26 @@
+* {
+  background-color: black;
+}
+
+img {
+  width: auto;
+  height: 500px;
+}
+#poster {
+  width: fit-content;
+  height: 500px;
+  margin: auto;
+  border: solid white 3px;
+}
+#main-h1 {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+#main-p {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
